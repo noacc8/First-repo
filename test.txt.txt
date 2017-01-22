@@ -7,6 +7,9 @@ Dots here...
 Updating with Bash…
 Update with Tortoise…
 
-
+Conflict resolved
+mine
 BRANCH MOFOS!
 zasd
+
+
